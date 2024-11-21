@@ -1,0 +1,46 @@
+
+    body{
+      background-color: #212121;
+    }
+    .header{
+      background-color: #cbed0c;
+      color: black;
+      padding: 40px;
+      text-align: center;
+    }
+
+    .container h3{
+     margin-top: 20px;
+     background-color: #cbed0c;
+     color: black;
+     padding: 20px 30px;
+     font-size: 30px;
+    }
+
+    .container-fluid-demo{
+      background-color: #212121;
+      padding: 20px 30px;
+    }
+
+    .col-demo{
+      background-color: #535353;
+      color: white;
+      border: 1px solid dimgray;
+      padding: 20px;
+      text-align: center;
+      margin-left: 170px;
+
+    }
+
+    .col-demo2{
+      background-color: #535353;
+      color: white;
+      border: 1px solid dimgray;
+      padding: 20px;
+      text-align: center;
+      margin-left: 170px;
+    }
+
+    .text{
+      margin-top: 10px;
+    }
